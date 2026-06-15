@@ -1,522 +1,1950 @@
 [
   {
     "id": "lst_001",
-    "title": "Vintage Levi's 501 Jeans — Medium Wash",
-    "description": "Classic 501s in a perfect medium wash. Some light fading at the knees which adds to the vintage look. No rips or stains.",
-    "category": "bottoms",
-    "style_tags": ["vintage", "classic", "denim", "streetwear"],
-    "size": "W30 L30",
-    "condition": "good",
-    "price": 38.00,
-    "colors": ["blue", "indigo"],
-    "brand": "Levi's",
-    "platform": "depop"
-  },
-  {
-    "id": "lst_002",
-    "title": "Y2K Baby Tee — Butterfly Print",
-    "description": "Super cute early 2000s baby tee with butterfly graphic. Fitted crop length. Tag says medium but fits like a small.",
+    "title": "Vintage Graphic Tee",
+    "description": "Vintage Graphic Tee in black. Vintage, graphic vibe. A solid secondhand find for everyday rotation.",
     "category": "tops",
-    "style_tags": ["y2k", "vintage", "graphic tee", "cottagecore"],
-    "size": "S/M",
+    "style_tags": [
+      "vintage",
+      "graphic",
+      "streetwear",
+      "retro"
+    ],
+    "size": "One Size",
     "condition": "excellent",
-    "price": 18.00,
-    "colors": ["white", "pink", "purple"],
+    "price": 21.5,
+    "colors": [
+      "black"
+    ],
     "brand": null,
-    "platform": "depop"
-  },
-  {
-    "id": "lst_003",
-    "title": "Oversized Flannel Shirt — Plaid Red/Black",
-    "description": "Classic oversized flannel. Great layering piece. A few tiny pulls in the fabric but nothing visible when worn.",
-    "category": "tops",
-    "style_tags": ["grunge", "vintage", "flannel", "streetwear", "layering"],
-    "size": "XL (oversized)",
-    "condition": "good",
-    "price": 22.00,
-    "colors": ["red", "black"],
-    "brand": "Woolrich",
     "platform": "thredUp"
   },
   {
-    "id": "lst_004",
-    "title": "90s Track Jacket — Navy/White Stripe",
-    "description": "Authentic 90s track jacket with stripe detail down the sleeves. Full zip. Lightweight — great for layering.",
-    "category": "outerwear",
-    "style_tags": ["90s", "vintage", "athletic", "streetwear"],
-    "size": "M",
-    "condition": "excellent",
-    "price": 45.00,
-    "colors": ["navy", "white"],
-    "brand": "Champion",
+    "id": "lst_002",
+    "title": "Band Tee \u2014 Tour Bootleg",
+    "description": "Band Tee \u2014 Tour Bootleg in black. Vintage, graphic vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "vintage",
+      "graphic",
+      "grunge",
+      "streetwear"
+    ],
+    "size": "S",
+    "condition": "good",
+    "price": 30.0,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_003",
+    "title": "Ringer Tee \u2014 Striped Trim",
+    "description": "Ringer Tee \u2014 Striped Trim in white. Retro, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "retro",
+      "y2k",
+      "basics"
+    ],
+    "size": "L",
+    "condition": "fair",
+    "price": 15.5,
+    "colors": [
+      "white",
+      "navy"
+    ],
+    "brand": null,
     "platform": "poshmark"
+  },
+  {
+    "id": "lst_004",
+    "title": "Cropped Baby Tee",
+    "description": "Cropped Baby Tee in pink. Y2k, fitted vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "y2k",
+      "fitted",
+      "cropped"
+    ],
+    "size": "XS",
+    "condition": "fair",
+    "price": 18.5,
+    "colors": [
+      "pink",
+      "baby blue"
+    ],
+    "brand": null,
+    "platform": "depop"
   },
   {
     "id": "lst_005",
-    "title": "Corduroy Wide-Leg Pants — Rust",
-    "description": "Beautiful rust-colored cords in a wide-leg silhouette. High-waisted. Minor pilling on the seat but otherwise great condition.",
-    "category": "bottoms",
-    "style_tags": ["vintage", "cottagecore", "70s", "earth tones"],
-    "size": "W28",
-    "condition": "good",
-    "price": 32.00,
-    "colors": ["rust", "orange"],
-    "brand": null,
-    "platform": "depop"
-  },
-  {
-    "id": "lst_006",
-    "title": "Graphic Tee — 2003 Tour Bootleg Style",
-    "description": "Vintage-style bootleg tee with faded graphic. Slightly boxy fit. 100% cotton, soft and worn-in.",
+    "title": "Oversized Crewneck Sweatshirt",
+    "description": "Oversized Crewneck Sweatshirt in black. Oversized, basics vibe. A solid secondhand find for everyday rotation.",
     "category": "tops",
-    "style_tags": ["graphic tee", "vintage", "grunge", "streetwear", "band tee"],
-    "size": "L",
-    "condition": "good",
-    "price": 24.00,
-    "colors": ["black"],
+    "style_tags": [
+      "oversized",
+      "basics",
+      "cozy",
+      "streetwear"
+    ],
+    "size": "XL",
+    "condition": "fair",
+    "price": 23.5,
+    "colors": [
+      "black"
+    ],
     "brand": null,
-    "platform": "depop"
-  },
-  {
-    "id": "lst_007",
-    "title": "Denim Jacket — Light Wash, Cropped",
-    "description": "Cropped denim jacket in a light wash. Great structured shoulders. Blank canvas — no patches or pins but would be perfect to customize.",
-    "category": "outerwear",
-    "style_tags": ["denim", "vintage", "classic", "streetwear"],
-    "size": "S",
-    "condition": "excellent",
-    "price": 42.00,
-    "colors": ["light blue"],
-    "brand": "Wrangler",
     "platform": "poshmark"
   },
   {
-    "id": "lst_008",
-    "title": "Knit Cardigan — Chunky Brown",
-    "description": "Super cozy oversized cardigan. Earth-tone brown, chunky knit. Hits at the hip. Perfect for layering over anything.",
+    "id": "lst_006",
+    "title": "Zip-Up Hoodie \u2014 Faded",
+    "description": "Zip-Up Hoodie \u2014 Faded in olive. Streetwear, athletic vibe. A solid secondhand find for everyday rotation.",
     "category": "tops",
-    "style_tags": ["cottagecore", "cozy", "oversized", "earth tones", "knitwear"],
-    "size": "One Size / Oversized",
-    "condition": "excellent",
-    "price": 35.00,
-    "colors": ["brown", "tan"],
+    "style_tags": [
+      "streetwear",
+      "athletic",
+      "cozy"
+    ],
+    "size": "S",
+    "condition": "fair",
+    "price": 26.0,
+    "colors": [
+      "olive"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_007",
+    "title": "Chunky Knit Sweater",
+    "description": "Chunky Knit Sweater in brown. Cozy, cottagecore vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "cozy",
+      "cottagecore",
+      "earth tones"
+    ],
+    "size": "One Size",
+    "condition": "good",
+    "price": 25.5,
+    "colors": [
+      "brown"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_008",
+    "title": "Ribbed Tank Top",
+    "description": "Ribbed Tank Top in black. Basics, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "basics",
+      "minimal",
+      "fitted"
+    ],
+    "size": "M",
+    "condition": "fair",
+    "price": 13.0,
+    "colors": [
+      "black",
+      "white"
+    ],
     "brand": null,
     "platform": "depop"
   },
   {
     "id": "lst_009",
-    "title": "Platform Mary Janes — Black Patent",
-    "description": "Patent leather platform Mary Janes. 1.5 inch platform. Some light scuffing on the toe box but nothing major. UK size 5.",
-    "category": "shoes",
-    "style_tags": ["y2k", "goth", "platform", "90s"],
-    "size": "US 7",
-    "condition": "good",
-    "price": 55.00,
-    "colors": ["black"],
-    "brand": "Demonia",
+    "title": "Flannel Button-Up",
+    "description": "Flannel Button-Up in green. Grunge, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "grunge",
+      "classic",
+      "cozy"
+    ],
+    "size": "XL",
+    "condition": "fair",
+    "price": 19.0,
+    "colors": [
+      "green",
+      "blue"
+    ],
+    "brand": null,
     "platform": "depop"
   },
   {
     "id": "lst_010",
-    "title": "Vintage Windbreaker — Color Block Purple/Teal",
-    "description": "Color block windbreaker from the early 90s. Packable, lightweight. The kind your dad definitely owned. Full zip with elastic cuffs.",
-    "category": "outerwear",
-    "style_tags": ["90s", "vintage", "athletic", "color block", "streetwear"],
-    "size": "L",
-    "condition": "good",
-    "price": 40.00,
-    "colors": ["purple", "teal", "black"],
+    "title": "Oxford Shirt \u2014 Crisp Cotton",
+    "description": "Oxford Shirt \u2014 Crisp Cotton in white. Preppy, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "preppy",
+      "minimal",
+      "classic"
+    ],
+    "size": "M/L",
+    "condition": "excellent",
+    "price": 18.0,
+    "colors": [
+      "white",
+      "light blue"
+    ],
     "brand": null,
-    "platform": "thredUp"
+    "platform": "poshmark"
   },
   {
     "id": "lst_011",
-    "title": "Low-Rise Cargo Pants — Khaki",
-    "description": "Y2K era low-rise cargo pants. Lots of pockets. Khaki color, slightly distressed at the hems. Great for layering with a long tee.",
-    "category": "bottoms",
-    "style_tags": ["y2k", "cargo", "2000s", "streetwear"],
-    "size": "W29",
+    "title": "Turtleneck \u2014 Fine Knit",
+    "description": "Turtleneck \u2014 Fine Knit in cream. Minimal, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "minimal",
+      "classic",
+      "basics"
+    ],
+    "size": "L/XL",
     "condition": "fair",
-    "price": 27.00,
-    "colors": ["khaki", "tan"],
+    "price": 17.0,
+    "colors": [
+      "cream",
+      "rust"
+    ],
     "brand": null,
-    "platform": "poshmark"
+    "platform": "thredUp"
   },
   {
     "id": "lst_012",
-    "title": "Oversized Crewneck Sweatshirt — Vintage Navy",
-    "description": "Perfectly faded navy crewneck. Genuinely vintage — not manufactured distressed. Ribbed cuffs and hem. No graphics, clean.",
+    "title": "Polo Shirt \u2014 Pique",
+    "description": "Polo Shirt \u2014 Pique in green. Preppy, retro vibe. A solid secondhand find for everyday rotation.",
     "category": "tops",
-    "style_tags": ["vintage", "basics", "oversized", "classic"],
-    "size": "XL (fits oversized)",
-    "condition": "good",
-    "price": 20.00,
-    "colors": ["navy"],
-    "brand": null,
-    "platform": "thredUp"
-  },
-  {
-    "id": "lst_013",
-    "title": "90s Silk Slip Dress — Floral, Midi Length",
-    "description": "Delicate 90s slip dress in a muted floral print. Midi length, adjustable straps. Light snag on the side seam — not visible when worn.",
-    "category": "bottoms",
-    "style_tags": ["90s", "vintage", "feminine", "floral", "cottagecore"],
-    "size": "M",
-    "condition": "good",
-    "price": 30.00,
-    "colors": ["ivory", "dusty pink", "green"],
-    "brand": null,
-    "platform": "depop"
-  },
-  {
-    "id": "lst_014",
-    "title": "Leather Belt — Brown, Braided",
-    "description": "Genuine leather braided belt. Adjustable, multiple holes. Classic Western buckle. Can be dressed up or down.",
-    "category": "accessories",
-    "style_tags": ["vintage", "western", "classic", "earth tones"],
-    "size": "One Size (adjustable)",
-    "condition": "excellent",
-    "price": 12.00,
-    "colors": ["brown"],
-    "brand": null,
-    "platform": "thredUp"
-  },
-  {
-    "id": "lst_015",
-    "title": "Vintage Graphic Hoodie — Faded Black",
-    "description": "Faded black pullover hoodie with barely-visible vintage graphic on the chest. Cozy interior. Some pilling but adds to the worn-in look.",
-    "category": "tops",
-    "style_tags": ["vintage", "grunge", "graphic", "streetwear"],
-    "size": "L",
+    "style_tags": [
+      "preppy",
+      "retro",
+      "classic"
+    ],
+    "size": "XS",
     "condition": "fair",
-    "price": 26.00,
-    "colors": ["black", "charcoal"],
+    "price": 15.5,
+    "colors": [
+      "green",
+      "navy"
+    ],
     "brand": null,
-    "platform": "depop"
-  },
-  {
-    "id": "lst_016",
-    "title": "High-Waisted Denim Shorts — Cutoff",
-    "description": "DIY cutoff denim shorts from Levi's 501s. Raw hem, slightly frayed. High-waisted. Perfect summer length.",
-    "category": "bottoms",
-    "style_tags": ["vintage", "denim", "summer", "classic"],
-    "size": "W27",
-    "condition": "good",
-    "price": 24.00,
-    "colors": ["light blue", "blue"],
-    "brand": "Levi's",
     "platform": "poshmark"
   },
   {
-    "id": "lst_017",
-    "title": "Mesh Long-Sleeve Top — Black",
-    "description": "Sheer black mesh long-sleeve. Great for layering under a graphic tee or over a bralette. Stretchy material, fits true to size.",
+    "id": "lst_013",
+    "title": "Henley Long Sleeve",
+    "description": "Henley Long Sleeve in charcoal. Basics, minimal vibe. A solid secondhand find for everyday rotation.",
     "category": "tops",
-    "style_tags": ["y2k", "grunge", "goth", "layering"],
+    "style_tags": [
+      "basics",
+      "minimal",
+      "earth tones"
+    ],
     "size": "S/M",
     "condition": "excellent",
-    "price": 15.00,
-    "colors": ["black"],
+    "price": 18.0,
+    "colors": [
+      "charcoal",
+      "oatmeal"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_014",
+    "title": "Mock Neck Top",
+    "description": "Mock Neck Top in black. Minimal, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "minimal",
+      "y2k",
+      "fitted"
+    ],
+    "size": "XL",
+    "condition": "excellent",
+    "price": 16.0,
+    "colors": [
+      "black",
+      "chocolate"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_015",
+    "title": "Cardigan \u2014 Button Front",
+    "description": "Cardigan \u2014 Button Front in cream. Cottagecore, cozy vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "cottagecore",
+      "cozy",
+      "vintage"
+    ],
+    "size": "L/XL",
+    "condition": "good",
+    "price": 26.0,
+    "colors": [
+      "cream",
+      "sage"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_016",
+    "title": "Mesh Long Sleeve",
+    "description": "Mesh Long Sleeve in silver. Y2k, grunge vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "y2k",
+      "grunge",
+      "going-out"
+    ],
+    "size": "S/M",
+    "condition": "fair",
+    "price": 15.5,
+    "colors": [
+      "silver",
+      "black"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_017",
+    "title": "Sweater Vest \u2014 Argyle",
+    "description": "Sweater Vest \u2014 Argyle in brown. Preppy, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "preppy",
+      "y2k",
+      "retro"
+    ],
+    "size": "L",
+    "condition": "fair",
+    "price": 29.5,
+    "colors": [
+      "brown"
+    ],
     "brand": null,
     "platform": "depop"
   },
   {
     "id": "lst_018",
-    "title": "Vintage Linen Blazer — Cream",
-    "description": "Lightweight linen blazer in cream. Relaxed fit, unstructured shoulders. Two front pockets. Could be dressed up or styled casually.",
-    "category": "outerwear",
-    "style_tags": ["vintage", "classic", "linen", "cottagecore", "minimal"],
-    "size": "M/L",
+    "title": "Halter Top \u2014 Satin",
+    "description": "Halter Top \u2014 Satin in emerald. Y2k, glam vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "y2k",
+      "glam",
+      "going-out"
+    ],
+    "size": "XL",
     "condition": "excellent",
-    "price": 38.00,
-    "colors": ["cream", "off-white"],
+    "price": 14.0,
+    "colors": [
+      "emerald"
+    ],
     "brand": null,
-    "platform": "thredUp"
+    "platform": "depop"
   },
   {
     "id": "lst_019",
-    "title": "Platform Sneakers — White Chunky Sole",
-    "description": "White chunky platform sneakers. Very late 90s / early 2000s energy. Velcro straps. True to size. Some sole yellowing.",
-    "category": "shoes",
-    "style_tags": ["y2k", "platform", "90s", "streetwear"],
-    "size": "US 8",
-    "condition": "good",
-    "price": 48.00,
-    "colors": ["white"],
+    "title": "Tie-Dye Long Sleeve",
+    "description": "Tie-Dye Long Sleeve in pink. Tie-dye, cottagecore vibe. A solid secondhand find for everyday rotation.",
+    "category": "tops",
+    "style_tags": [
+      "tie-dye",
+      "cottagecore",
+      "colorful"
+    ],
+    "size": "L/XL",
+    "condition": "fair",
+    "price": 18.0,
+    "colors": [
+      "pink",
+      "mint"
+    ],
     "brand": null,
     "platform": "poshmark"
   },
   {
     "id": "lst_020",
-    "title": "Henley Long Sleeve — Washed Burgundy",
-    "description": "Soft washed henley in a rich burgundy. Three-button placket. Slightly shrunken/cropped fit. 100% cotton.",
+    "title": "Jersey Tee \u2014 Numbered",
+    "description": "Jersey Tee \u2014 Numbered in red. Streetwear, athletic vibe. A solid secondhand find for everyday rotation.",
     "category": "tops",
-    "style_tags": ["vintage", "basics", "earth tones", "classic"],
-    "size": "M",
+    "style_tags": [
+      "streetwear",
+      "athletic",
+      "y2k"
+    ],
+    "size": "M/L",
     "condition": "excellent",
-    "price": 16.00,
-    "colors": ["burgundy", "wine"],
+    "price": 21.0,
+    "colors": [
+      "red"
+    ],
     "brand": null,
-    "platform": "thredUp"
+    "platform": "depop"
   },
   {
     "id": "lst_021",
-    "title": "Straight Leg Khaki Trousers — Olive",
-    "description": "Olive straight-leg trousers. High-waisted, with a center crease. Lightweight material, great for transitional weather.",
+    "title": "Vintage Levi's Straight Jeans",
+    "description": "Vintage Levi's Straight Jeans in blue. Vintage, denim vibe. A solid secondhand find for everyday rotation.",
     "category": "bottoms",
-    "style_tags": ["earth tones", "classic", "minimal", "vintage"],
-    "size": "W30",
-    "condition": "excellent",
-    "price": 29.00,
-    "colors": ["olive", "green"],
-    "brand": null,
-    "platform": "poshmark"
+    "style_tags": [
+      "vintage",
+      "denim",
+      "classic",
+      "streetwear"
+    ],
+    "size": "W32",
+    "condition": "fair",
+    "price": 30.5,
+    "colors": [
+      "blue"
+    ],
+    "brand": "Levi's",
+    "platform": "depop"
   },
   {
     "id": "lst_022",
-    "title": "90s Leather Bomber — Black",
-    "description": "Genuine leather bomber jacket. Classic 90s silhouette, slightly boxy. Ribbed collar, cuffs, and hem. Some creasing from age — adds character.",
-    "category": "outerwear",
-    "style_tags": ["90s", "vintage", "leather", "classic", "grunge"],
-    "size": "M",
-    "condition": "good",
-    "price": 75.00,
-    "colors": ["black"],
+    "title": "Baggy Carpenter Jeans",
+    "description": "Baggy Carpenter Jeans in washed. Baggy, denim vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "baggy",
+      "denim",
+      "streetwear",
+      "y2k"
+    ],
+    "size": "L",
+    "condition": "excellent",
+    "price": 28.0,
+    "colors": [
+      "washed"
+    ],
     "brand": null,
     "platform": "depop"
   },
   {
     "id": "lst_023",
-    "title": "Crochet Halter Top — Cream",
-    "description": "Handmade-looking crochet halter. Ties at the neck and back. Perfect for layering over a tank in summer.",
-    "category": "tops",
-    "style_tags": ["cottagecore", "boho", "crochet", "summer"],
-    "size": "S/M",
-    "condition": "excellent",
-    "price": 22.00,
-    "colors": ["cream", "off-white"],
+    "title": "Wide-Leg Trousers",
+    "description": "Wide-Leg Trousers in cream. Minimal, wide-leg vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "minimal",
+      "wide-leg",
+      "earth tones"
+    ],
+    "size": "W31",
+    "condition": "good",
+    "price": 41.0,
+    "colors": [
+      "cream"
+    ],
     "brand": null,
-    "platform": "depop"
+    "platform": "poshmark"
   },
   {
     "id": "lst_024",
-    "title": "Vintage Polo Shirt — Forest Green",
-    "description": "Classic polo in forest green. Short sleeve, ribbed collar. Slightly boxy. The kind of piece that goes with everything.",
-    "category": "tops",
-    "style_tags": ["vintage", "preppy", "classic", "earth tones"],
-    "size": "M",
+    "title": "Cargo Pants \u2014 Utility",
+    "description": "Cargo Pants \u2014 Utility in tan. Streetwear, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "streetwear",
+      "y2k",
+      "utility"
+    ],
+    "size": "S",
     "condition": "good",
-    "price": 18.00,
-    "colors": ["green", "forest green"],
-    "brand": "Ralph Lauren",
-    "platform": "thredUp"
+    "price": 31.5,
+    "colors": [
+      "tan",
+      "black"
+    ],
+    "brand": null,
+    "platform": "depop"
   },
   {
     "id": "lst_025",
-    "title": "Wide-Leg Linen Trousers — Natural",
-    "description": "Relaxed wide-leg linen trousers in a natural/undyed color. Drawstring waist. Very breathable. Sold as a large but cut more like a medium.",
+    "title": "Pleated Mini Skirt",
+    "description": "Pleated Mini Skirt in black. Preppy, y2k vibe. A solid secondhand find for everyday rotation.",
     "category": "bottoms",
-    "style_tags": ["cottagecore", "minimal", "linen", "earth tones", "summer"],
-    "size": "M/L",
+    "style_tags": [
+      "preppy",
+      "y2k",
+      "school"
+    ],
+    "size": "M",
     "condition": "excellent",
-    "price": 34.00,
-    "colors": ["natural", "ecru", "tan"],
+    "price": 18.0,
+    "colors": [
+      "black",
+      "plaid"
+    ],
     "brand": null,
-    "platform": "poshmark"
+    "platform": "depop"
   },
   {
     "id": "lst_026",
-    "title": "Biker Shorts — Black, Shiny",
-    "description": "Shiny black biker shorts in a slightly glossy material. High-waisted. Y2K-coded. Can be styled athletic or fashion.",
+    "title": "Flowy Midi Skirt",
+    "description": "Flowy Midi Skirt in sage. Cottagecore, minimal vibe. A solid secondhand find for everyday rotation.",
     "category": "bottoms",
-    "style_tags": ["y2k", "athletic", "streetwear", "2000s"],
-    "size": "S",
+    "style_tags": [
+      "cottagecore",
+      "minimal",
+      "flowy"
+    ],
+    "size": "M",
     "condition": "excellent",
-    "price": 14.00,
-    "colors": ["black"],
-    "brand": null,
-    "platform": "depop"
-  },
-  {
-    "id": "lst_027",
-    "title": "Oversized College Crewneck — Faded Red",
-    "description": "Classic college-style crewneck in a beautifully faded red. No school name — just a plain athletic crewneck. Roomy fit.",
-    "category": "tops",
-    "style_tags": ["vintage", "athletic", "oversized", "classic"],
-    "size": "XL",
-    "condition": "good",
-    "price": 21.00,
-    "colors": ["red", "faded red"],
-    "brand": null,
-    "platform": "thredUp"
-  },
-  {
-    "id": "lst_028",
-    "title": "Suede Chelsea Boots — Tan",
-    "description": "Tan suede Chelsea boots with elastic side panels. Stacked heel. Some scuffing on the toe — can be brushed out with suede cleaner.",
-    "category": "shoes",
-    "style_tags": ["vintage", "classic", "western", "earth tones"],
-    "size": "US 8.5",
-    "condition": "fair",
-    "price": 44.00,
-    "colors": ["tan", "camel"],
+    "price": 37.0,
+    "colors": [
+      "sage"
+    ],
     "brand": null,
     "platform": "poshmark"
   },
   {
-    "id": "lst_029",
-    "title": "Silk Button-Down — Sage Green",
-    "description": "Loose silk (feel) button-down in sage green. Long sleeve, can be worn open as a layer or fully buttoned. Very flowy.",
-    "category": "tops",
-    "style_tags": ["vintage", "minimal", "earth tones", "cottagecore"],
+    "id": "lst_027",
+    "title": "High-Waisted Denim Shorts",
+    "description": "High-Waisted Denim Shorts in white. Denim, vintage vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "denim",
+      "vintage",
+      "summer"
+    ],
     "size": "M",
-    "condition": "excellent",
-    "price": 28.00,
-    "colors": ["sage", "green"],
+    "condition": "good",
+    "price": 20.0,
+    "colors": [
+      "white"
+    ],
     "brand": null,
     "platform": "depop"
   },
   {
-    "id": "lst_030",
-    "title": "Vintage Knit Vest — Argyle Brown/Cream",
-    "description": "Classic argyle knit vest in brown and cream. Fits medium. V-neck. Ideal for the dark academia or preppy vintage aesthetic.",
-    "category": "tops",
-    "style_tags": ["vintage", "preppy", "knitwear", "dark academia", "earth tones"],
+    "id": "lst_028",
+    "title": "Corduroy Pants \u2014 Wide Wale",
+    "description": "Corduroy Pants \u2014 Wide Wale in olive. Retro, earth tones vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "retro",
+      "earth tones",
+      "cozy"
+    ],
+    "size": "L",
+    "condition": "excellent",
+    "price": 26.5,
+    "colors": [
+      "olive",
+      "brown"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_029",
+    "title": "Pleated Chinos",
+    "description": "Pleated Chinos in beige. Preppy, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "preppy",
+      "minimal",
+      "classic"
+    ],
     "size": "M",
     "condition": "good",
-    "price": 25.00,
-    "colors": ["brown", "cream", "tan"],
+    "price": 31.0,
+    "colors": [
+      "beige"
+    ],
     "brand": null,
     "platform": "thredUp"
   },
   {
-    "id": "lst_031",
-    "title": "Baggy Carpenter Jeans — Dark Wash",
-    "description": "Baggy carpenter jeans with hammer loop on the side. Dark wash. Sits at the waist. Major 90s workwear vibes.",
+    "id": "lst_030",
+    "title": "Flare Jeans \u2014 High Rise",
+    "description": "Flare Jeans \u2014 High Rise in dark wash. Y2k, denim vibe. A solid secondhand find for everyday rotation.",
     "category": "bottoms",
-    "style_tags": ["90s", "vintage", "streetwear", "baggy", "workwear"],
-    "size": "W32",
-    "condition": "good",
-    "price": 36.00,
-    "colors": ["dark blue", "indigo"],
+    "style_tags": [
+      "y2k",
+      "denim",
+      "retro"
+    ],
+    "size": "W30",
+    "condition": "fair",
+    "price": 39.0,
+    "colors": [
+      "dark wash",
+      "medium blue"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_031",
+    "title": "Mom Jeans \u2014 Light Wash",
+    "description": "Mom Jeans \u2014 Light Wash in light blue. Vintage, denim vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "vintage",
+      "denim",
+      "minimal"
+    ],
+    "size": "W28",
+    "condition": "excellent",
+    "price": 41.0,
+    "colors": [
+      "light blue"
+    ],
     "brand": null,
     "platform": "depop"
   },
   {
     "id": "lst_032",
-    "title": "Shacket — Olive Canvas",
-    "description": "Olive canvas shacket — thicker than a shirt, lighter than a jacket. Chest pockets, button-front. Great transitional layer.",
-    "category": "outerwear",
-    "style_tags": ["earth tones", "classic", "layering", "minimal"],
-    "size": "M/L",
-    "condition": "excellent",
-    "price": 33.00,
-    "colors": ["olive", "green"],
+    "title": "Sweatpants \u2014 Vintage Fleece",
+    "description": "Sweatpants \u2014 Vintage Fleece in navy. Athletic, cozy vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "athletic",
+      "cozy",
+      "streetwear"
+    ],
+    "size": "L",
+    "condition": "fair",
+    "price": 19.5,
+    "colors": [
+      "navy"
+    ],
     "brand": null,
-    "platform": "poshmark"
+    "platform": "depop"
   },
   {
     "id": "lst_033",
-    "title": "Vintage Band Tee — Faded Grey",
-    "description": "Faded grey band-style tee with distressed graphic. Crew neck. Fits boxy. Well-loved but no holes or major damage.",
-    "category": "tops",
-    "style_tags": ["vintage", "grunge", "band tee", "graphic tee", "streetwear"],
-    "size": "L",
+    "title": "Track Pants \u2014 Side Stripe",
+    "description": "Track Pants \u2014 Side Stripe in black. Athletic, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "athletic",
+      "y2k",
+      "streetwear"
+    ],
+    "size": "W34",
     "condition": "fair",
-    "price": 19.00,
-    "colors": ["grey", "charcoal"],
+    "price": 26.0,
+    "colors": [
+      "black"
+    ],
     "brand": null,
     "platform": "depop"
   },
   {
     "id": "lst_034",
-    "title": "Bucket Hat — Reversible, Brown Plaid",
-    "description": "Reversible bucket hat — plaid on one side, solid tan on the other. Unstructured brim. One size fits most.",
-    "category": "accessories",
-    "style_tags": ["90s", "streetwear", "vintage", "accessories"],
-    "size": "One Size",
-    "condition": "excellent",
-    "price": 14.00,
-    "colors": ["brown", "tan", "plaid"],
+    "title": "Linen Trousers",
+    "description": "Linen Trousers in white. Minimal, summer vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "minimal",
+      "summer",
+      "earth tones"
+    ],
+    "size": "S",
+    "condition": "good",
+    "price": 29.5,
+    "colors": [
+      "white",
+      "tan"
+    ],
     "brand": null,
-    "platform": "thredUp"
+    "platform": "poshmark"
   },
   {
     "id": "lst_035",
-    "title": "Low-Top Canvas Sneakers — Off-White",
-    "description": "Classic low-top canvas sneakers in off-white. Very minimal. Some light yellowing on the sole edges from age. Size 9.",
-    "category": "shoes",
-    "style_tags": ["classic", "minimal", "streetwear", "basics"],
-    "size": "US 9",
-    "condition": "good",
-    "price": 20.00,
-    "colors": ["off-white", "cream"],
+    "title": "Denim Overalls",
+    "description": "Denim Overalls in blue. Vintage, denim vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "vintage",
+      "denim",
+      "cottagecore"
+    ],
+    "size": "W27",
+    "condition": "excellent",
+    "price": 49.0,
+    "colors": [
+      "blue"
+    ],
     "brand": null,
     "platform": "poshmark"
   },
   {
     "id": "lst_036",
-    "title": "Velvet Blazer — Emerald Green",
-    "description": "Stunning emerald green velvet blazer. Fitted cut, padded shoulders. Statement piece. Minor lint on the sleeves.",
-    "category": "outerwear",
-    "style_tags": ["vintage", "statement", "feminine", "glam"],
-    "size": "S",
-    "condition": "good",
-    "price": 52.00,
-    "colors": ["emerald", "green"],
-    "brand": null,
-    "platform": "depop"
-  },
-  {
-    "id": "lst_037",
-    "title": "Straight Leg Black Jeans — Faded",
-    "description": "Faded black straight-leg jeans. Sits at the hips, classic fit. Slightly cropped length. No rips, just natural fading.",
+    "title": "Pleated Maxi Skirt",
+    "description": "Pleated Maxi Skirt in charcoal. Minimal, flowy vibe. A solid secondhand find for everyday rotation.",
     "category": "bottoms",
-    "style_tags": ["vintage", "classic", "grunge", "denim"],
-    "size": "W28",
-    "condition": "good",
-    "price": 30.00,
-    "colors": ["black", "faded black"],
-    "brand": "Levi's",
-    "platform": "thredUp"
-  },
-  {
-    "id": "lst_038",
-    "title": "Denim Vest — Medium Wash, Studded",
-    "description": "Denim vest with silver stud detailing along the collar and pockets. Classic rock-inspired customization. Fits like a medium.",
-    "category": "outerwear",
-    "style_tags": ["grunge", "vintage", "denim", "customized", "rock"],
-    "size": "M",
-    "condition": "good",
-    "price": 27.00,
-    "colors": ["medium blue"],
-    "brand": null,
-    "platform": "depop"
-  },
-  {
-    "id": "lst_039",
-    "title": "Mini Shoulder Bag — Tan Leather",
-    "description": "Tiny structured shoulder bag in tan leather. Gold hardware. Fits a phone, keys, and a card wallet. Adjustable strap.",
-    "category": "accessories",
-    "style_tags": ["vintage", "classic", "y2k", "accessories"],
-    "size": "One Size",
+    "style_tags": [
+      "minimal",
+      "flowy",
+      "elegant"
+    ],
+    "size": "W32",
     "condition": "excellent",
-    "price": 38.00,
-    "colors": ["tan", "camel"],
+    "price": 40.0,
+    "colors": [
+      "charcoal"
+    ],
     "brand": null,
     "platform": "poshmark"
   },
   {
-    "id": "lst_040",
-    "title": "Tie-Dye Long Sleeve — Pastel",
-    "description": "Hand tie-dyed long sleeve in soft pastel hues — pink, lavender, and mint. Oversized unisex fit. 100% cotton.",
-    "category": "tops",
-    "style_tags": ["tie-dye", "cottagecore", "colorful", "streetwear"],
-    "size": "L/XL",
+    "id": "lst_037",
+    "title": "Plaid Mini Skirt",
+    "description": "Plaid Mini Skirt in red plaid. Grunge, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "grunge",
+      "y2k",
+      "school"
+    ],
+    "size": "W34",
     "condition": "excellent",
-    "price": 17.00,
-    "colors": ["pink", "lavender", "mint"],
+    "price": 23.5,
+    "colors": [
+      "red plaid"
+    ],
     "brand": null,
     "platform": "depop"
+  },
+  {
+    "id": "lst_038",
+    "title": "Culottes \u2014 Cropped Wide",
+    "description": "Culottes \u2014 Cropped Wide in cream. Minimal, earth tones vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "minimal",
+      "earth tones",
+      "wide-leg"
+    ],
+    "size": "W31",
+    "condition": "fair",
+    "price": 18.5,
+    "colors": [
+      "cream"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_039",
+    "title": "Leather Mini Skirt",
+    "description": "Leather Mini Skirt in black. Grunge, glam vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "grunge",
+      "glam",
+      "going-out"
+    ],
+    "size": "L",
+    "condition": "fair",
+    "price": 37.5,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_040",
+    "title": "Capri Pants",
+    "description": "Capri Pants in khaki. Y2k, retro vibe. A solid secondhand find for everyday rotation.",
+    "category": "bottoms",
+    "style_tags": [
+      "y2k",
+      "retro",
+      "minimal"
+    ],
+    "size": "M",
+    "condition": "fair",
+    "price": 24.0,
+    "colors": [
+      "khaki"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_041",
+    "title": "Vintage Denim Jacket",
+    "description": "Vintage Denim Jacket in blue. Vintage, denim vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "vintage",
+      "denim",
+      "classic",
+      "streetwear"
+    ],
+    "size": "M",
+    "condition": "excellent",
+    "price": 36.0,
+    "colors": [
+      "blue"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_042",
+    "title": "Leather Moto Jacket",
+    "description": "Leather Moto Jacket in brown. Grunge, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "grunge",
+      "classic",
+      "edgy"
+    ],
+    "size": "One Size",
+    "condition": "fair",
+    "price": 64.5,
+    "colors": [
+      "brown"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_043",
+    "title": "Bomber Jacket \u2014 Nylon",
+    "description": "Bomber Jacket \u2014 Nylon in black. Streetwear, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "streetwear",
+      "y2k",
+      "athletic"
+    ],
+    "size": "L",
+    "condition": "good",
+    "price": 32.0,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_044",
+    "title": "Trench Coat \u2014 Belted",
+    "description": "Trench Coat \u2014 Belted in tan. Classic, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "classic",
+      "minimal",
+      "elegant"
+    ],
+    "size": "L/XL",
+    "condition": "good",
+    "price": 54.0,
+    "colors": [
+      "tan"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_045",
+    "title": "Puffer Jacket \u2014 Cropped",
+    "description": "Puffer Jacket \u2014 Cropped in pink. Streetwear, cozy vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "streetwear",
+      "cozy",
+      "y2k"
+    ],
+    "size": "XL",
+    "condition": "good",
+    "price": 47.0,
+    "colors": [
+      "pink"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_046",
+    "title": "Windbreaker \u2014 Color Block",
+    "description": "Windbreaker \u2014 Color Block in white. Athletic, retro vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "athletic",
+      "retro",
+      "y2k"
+    ],
+    "size": "One Size",
+    "condition": "good",
+    "price": 27.0,
+    "colors": [
+      "white"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_047",
+    "title": "Oversized Blazer",
+    "description": "Oversized Blazer in black. Minimal, preppy vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "minimal",
+      "preppy",
+      "classic"
+    ],
+    "size": "S",
+    "condition": "good",
+    "price": 36.5,
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_048",
+    "title": "Wool Peacoat",
+    "description": "Wool Peacoat in navy. Classic, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "classic",
+      "minimal",
+      "cozy"
+    ],
+    "size": "XL",
+    "condition": "excellent",
+    "price": 38.0,
+    "colors": [
+      "navy",
+      "charcoal"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_049",
+    "title": "Corduroy Shacket",
+    "description": "Corduroy Shacket in brown. Earth tones, cozy vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "earth tones",
+      "cozy",
+      "retro"
+    ],
+    "size": "M",
+    "condition": "good",
+    "price": 35.0,
+    "colors": [
+      "brown",
+      "olive"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_050",
+    "title": "Varsity Jacket \u2014 Wool & Leather",
+    "description": "Varsity Jacket \u2014 Wool & Leather in navy. Retro, preppy vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "retro",
+      "preppy",
+      "vintage"
+    ],
+    "size": "M",
+    "condition": "fair",
+    "price": 51.5,
+    "colors": [
+      "navy",
+      "cream"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_051",
+    "title": "Fleece Zip Pullover",
+    "description": "Fleece Zip Pullover in beige. Cozy, athletic vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "cozy",
+      "athletic",
+      "streetwear"
+    ],
+    "size": "S/M",
+    "condition": "excellent",
+    "price": 30.0,
+    "colors": [
+      "beige",
+      "grey"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_052",
+    "title": "Quilted Liner Jacket",
+    "description": "Quilted Liner Jacket in black. Minimal, earth tones vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "minimal",
+      "earth tones",
+      "cozy"
+    ],
+    "size": "M/L",
+    "condition": "good",
+    "price": 26.0,
+    "colors": [
+      "black",
+      "olive"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_053",
+    "title": "Anorak \u2014 Packable",
+    "description": "Anorak \u2014 Packable in yellow. Athletic, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "athletic",
+      "minimal",
+      "streetwear"
+    ],
+    "size": "L",
+    "condition": "excellent",
+    "price": 28.0,
+    "colors": [
+      "yellow"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_054",
+    "title": "Faux Shearling Coat",
+    "description": "Faux Shearling Coat in brown. Cozy, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "cozy",
+      "y2k",
+      "glam"
+    ],
+    "size": "M",
+    "condition": "good",
+    "price": 34.5,
+    "colors": [
+      "brown"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_055",
+    "title": "Denim Trucker \u2014 Sherpa Lined",
+    "description": "Denim Trucker \u2014 Sherpa Lined in black. Vintage, denim vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "vintage",
+      "denim",
+      "cozy"
+    ],
+    "size": "S/M",
+    "condition": "excellent",
+    "price": 41.5,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_056",
+    "title": "Track Jacket \u2014 Retro Stripes",
+    "description": "Track Jacket \u2014 Retro Stripes in red. Athletic, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "athletic",
+      "y2k",
+      "streetwear"
+    ],
+    "size": "XS",
+    "condition": "fair",
+    "price": 19.0,
+    "colors": [
+      "red",
+      "navy"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_057",
+    "title": "Duster Coat \u2014 Longline",
+    "description": "Duster Coat \u2014 Longline in camel. Minimal, elegant vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "minimal",
+      "elegant",
+      "earth tones"
+    ],
+    "size": "XL",
+    "condition": "excellent",
+    "price": 42.5,
+    "colors": [
+      "camel"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_058",
+    "title": "Cropped Denim Jacket",
+    "description": "Cropped Denim Jacket in white. Vintage, denim vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "vintage",
+      "denim",
+      "y2k"
+    ],
+    "size": "XS",
+    "condition": "fair",
+    "price": 22.0,
+    "colors": [
+      "white",
+      "light blue"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_059",
+    "title": "Raincoat \u2014 Glossy",
+    "description": "Raincoat \u2014 Glossy in black. Minimal, retro vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "minimal",
+      "retro",
+      "utility"
+    ],
+    "size": "XS",
+    "condition": "excellent",
+    "price": 24.5,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_060",
+    "title": "Cardigan Coat \u2014 Chunky Knit",
+    "description": "Cardigan Coat \u2014 Chunky Knit in brown. Cozy, cottagecore vibe. A solid secondhand find for everyday rotation.",
+    "category": "outerwear",
+    "style_tags": [
+      "cozy",
+      "cottagecore",
+      "earth tones"
+    ],
+    "size": "L/XL",
+    "condition": "fair",
+    "price": 39.0,
+    "colors": [
+      "brown"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_061",
+    "title": "Low-Top Canvas Sneakers",
+    "description": "Low-Top Canvas Sneakers in black. Classic, streetwear vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "classic",
+      "streetwear",
+      "basics"
+    ],
+    "size": "US 6",
+    "condition": "excellent",
+    "price": 23.0,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_062",
+    "title": "High-Top Canvas Sneakers",
+    "description": "High-Top Canvas Sneakers in white. Classic, streetwear vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "classic",
+      "streetwear",
+      "retro"
+    ],
+    "size": "US 8.5",
+    "condition": "excellent",
+    "price": 37.0,
+    "colors": [
+      "white"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_063",
+    "title": "Platform Sneakers \u2014 Chunky Sole",
+    "description": "Platform Sneakers \u2014 Chunky Sole in black. Y2k, streetwear vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "y2k",
+      "streetwear",
+      "chunky"
+    ],
+    "size": "US 9",
+    "condition": "good",
+    "price": 30.0,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_064",
+    "title": "Suede Chelsea Boots",
+    "description": "Suede Chelsea Boots in black. Minimal, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "minimal",
+      "classic",
+      "earth tones"
+    ],
+    "size": "US 10",
+    "condition": "fair",
+    "price": 36.5,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_065",
+    "title": "Combat Boots \u2014 Lace Up",
+    "description": "Combat Boots \u2014 Lace Up in black. Grunge, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "grunge",
+      "classic",
+      "edgy"
+    ],
+    "size": "US 6",
+    "condition": "excellent",
+    "price": 44.0,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_066",
+    "title": "Platform Mary Janes",
+    "description": "Platform Mary Janes in black. Y2k, grunge vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "y2k",
+      "grunge",
+      "school"
+    ],
+    "size": "US 6",
+    "condition": "fair",
+    "price": 42.5,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_067",
+    "title": "Penny Loafers \u2014 Leather",
+    "description": "Penny Loafers \u2014 Leather in brown. Preppy, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "preppy",
+      "classic",
+      "minimal"
+    ],
+    "size": "US 6",
+    "condition": "good",
+    "price": 43.0,
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_068",
+    "title": "Ballet Flats \u2014 Pointed",
+    "description": "Ballet Flats \u2014 Pointed in nude. Minimal, elegant vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "minimal",
+      "elegant",
+      "y2k"
+    ],
+    "size": "US 9",
+    "condition": "good",
+    "price": 19.0,
+    "colors": [
+      "nude",
+      "red"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_069",
+    "title": "Shearling Slippers",
+    "description": "Shearling Slippers in grey. Cozy, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "cozy",
+      "minimal",
+      "everyday"
+    ],
+    "size": "US 7",
+    "condition": "excellent",
+    "price": 16.0,
+    "colors": [
+      "grey"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_070",
+    "title": "Strappy Sandals \u2014 Flat",
+    "description": "Strappy Sandals \u2014 Flat in tan. Minimal, summer vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "minimal",
+      "summer",
+      "everyday"
+    ],
+    "size": "US 9",
+    "condition": "excellent",
+    "price": 20.0,
+    "colors": [
+      "tan"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_071",
+    "title": "Derby Shoes \u2014 Brogue",
+    "description": "Derby Shoes \u2014 Brogue in brown. Preppy, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "preppy",
+      "classic",
+      "vintage"
+    ],
+    "size": "US 6",
+    "condition": "good",
+    "price": 32.5,
+    "colors": [
+      "brown",
+      "oxblood"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_072",
+    "title": "Running Sneakers \u2014 Retro",
+    "description": "Running Sneakers \u2014 Retro in blue. Athletic, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "athletic",
+      "y2k",
+      "streetwear"
+    ],
+    "size": "US 10",
+    "condition": "fair",
+    "price": 40.5,
+    "colors": [
+      "blue"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_073",
+    "title": "Ankle Boots \u2014 Heeled",
+    "description": "Ankle Boots \u2014 Heeled in black. Minimal, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "minimal",
+      "classic",
+      "going-out"
+    ],
+    "size": "US 10",
+    "condition": "fair",
+    "price": 48.0,
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_074",
+    "title": "Clogs \u2014 Suede",
+    "description": "Clogs \u2014 Suede in tan. Retro, earth tones vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "retro",
+      "earth tones",
+      "cozy"
+    ],
+    "size": "US 11",
+    "condition": "fair",
+    "price": 25.0,
+    "colors": [
+      "tan",
+      "brown"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_075",
+    "title": "Espadrilles \u2014 Woven",
+    "description": "Espadrilles \u2014 Woven in natural. Summer, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "summer",
+      "minimal",
+      "earth tones"
+    ],
+    "size": "US 6",
+    "condition": "excellent",
+    "price": 29.0,
+    "colors": [
+      "natural"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_076",
+    "title": "Knee-High Boots \u2014 Leather",
+    "description": "Knee-High Boots \u2014 Leather in brown. Y2k, glam vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "y2k",
+      "glam",
+      "going-out"
+    ],
+    "size": "US 10",
+    "condition": "excellent",
+    "price": 54.0,
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_077",
+    "title": "Skate Shoes \u2014 Suede",
+    "description": "Skate Shoes \u2014 Suede in black. Streetwear, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "streetwear",
+      "y2k",
+      "athletic"
+    ],
+    "size": "US 11",
+    "condition": "excellent",
+    "price": 35.5,
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_078",
+    "title": "Slip-On Sneakers",
+    "description": "Slip-On Sneakers in checkered. Minimal, basics vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "minimal",
+      "basics",
+      "everyday"
+    ],
+    "size": "US 9",
+    "condition": "excellent",
+    "price": 33.0,
+    "colors": [
+      "checkered"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_079",
+    "title": "Wedge Sandals",
+    "description": "Wedge Sandals in black. Summer, retro vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "summer",
+      "retro",
+      "going-out"
+    ],
+    "size": "US 7",
+    "condition": "fair",
+    "price": 35.5,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_080",
+    "title": "Knit House Slippers",
+    "description": "Knit House Slippers in cream. Cozy, basics vibe. A solid secondhand find for everyday rotation.",
+    "category": "shoes",
+    "style_tags": [
+      "cozy",
+      "basics",
+      "minimal"
+    ],
+    "size": "US 6",
+    "condition": "good",
+    "price": 13.0,
+    "colors": [
+      "cream",
+      "grey"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_081",
+    "title": "Round Wire Eyeglasses",
+    "description": "Round Wire Eyeglasses in gold. Vintage, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "vintage",
+      "minimal",
+      "retro"
+    ],
+    "size": "One Size",
+    "condition": "good",
+    "price": 20.5,
+    "colors": [
+      "gold"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_082",
+    "title": "Tortoiseshell Square Glasses",
+    "description": "Tortoiseshell Square Glasses in brown. Y2k, retro vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "y2k",
+      "retro",
+      "academic"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "excellent",
+    "price": 24.0,
+    "colors": [
+      "brown"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_083",
+    "title": "Oversized Sunglasses",
+    "description": "Oversized Sunglasses in tortoise. Y2k, glam vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "y2k",
+      "glam",
+      "retro"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "fair",
+    "price": 16.0,
+    "colors": [
+      "tortoise"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_084",
+    "title": "Baseball Cap \u2014 Washed Cotton",
+    "description": "Baseball Cap \u2014 Washed Cotton in beige. Streetwear, minimal vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "streetwear",
+      "minimal",
+      "everyday"
+    ],
+    "size": "One Size",
+    "condition": "good",
+    "price": 11.0,
+    "colors": [
+      "beige"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_085",
+    "title": "Bucket Hat \u2014 Reversible",
+    "description": "Bucket Hat \u2014 Reversible in plaid. Y2k, streetwear vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "y2k",
+      "streetwear",
+      "colorful"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "good",
+    "price": 23.5,
+    "colors": [
+      "plaid",
+      "khaki"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_086",
+    "title": "Corduroy Dad Cap",
+    "description": "Corduroy Dad Cap in rust. Earth tones, cozy vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "earth tones",
+      "cozy",
+      "retro"
+    ],
+    "size": "One Size",
+    "condition": "excellent",
+    "price": 19.0,
+    "colors": [
+      "rust"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_087",
+    "title": "Ribbed Beanie",
+    "description": "Ribbed Beanie in grey. Cozy, basics vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "cozy",
+      "basics",
+      "streetwear"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "excellent",
+    "price": 12.0,
+    "colors": [
+      "grey"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_088",
+    "title": "Wool Beret",
+    "description": "Wool Beret in red. Vintage, elegant vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "vintage",
+      "elegant",
+      "cottagecore"
+    ],
+    "size": "One Size",
+    "condition": "excellent",
+    "price": 14.0,
+    "colors": [
+      "red",
+      "black"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_089",
+    "title": "Silk Scarf \u2014 Floral",
+    "description": "Silk Scarf \u2014 Floral in cream. Vintage, cottagecore vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "vintage",
+      "cottagecore",
+      "colorful"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "good",
+    "price": 18.0,
+    "colors": [
+      "cream"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_090",
+    "title": "Braided Leather Belt",
+    "description": "Braided Leather Belt in tan. Classic, earth tones vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "classic",
+      "earth tones",
+      "minimal"
+    ],
+    "size": "One Size",
+    "condition": "excellent",
+    "price": 14.0,
+    "colors": [
+      "tan",
+      "brown"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_091",
+    "title": "Studded Belt",
+    "description": "Studded Belt in black. Grunge, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "grunge",
+      "y2k",
+      "edgy"
+    ],
+    "size": "One Size",
+    "condition": "good",
+    "price": 12.0,
+    "colors": [
+      "black"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_092",
+    "title": "Mini Shoulder Bag \u2014 Leather",
+    "description": "Mini Shoulder Bag \u2014 Leather in black. Minimal, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "minimal",
+      "y2k",
+      "everyday"
+    ],
+    "size": "One Size",
+    "condition": "good",
+    "price": 44.0,
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_093",
+    "title": "Canvas Tote Bag",
+    "description": "Canvas Tote Bag in natural. Minimal, basics vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "minimal",
+      "basics",
+      "everyday"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "good",
+    "price": 9.0,
+    "colors": [
+      "natural"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_094",
+    "title": "Mini Backpack",
+    "description": "Mini Backpack in black. Y2k, streetwear vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "y2k",
+      "streetwear",
+      "everyday"
+    ],
+    "size": "One Size",
+    "condition": "fair",
+    "price": 24.0,
+    "colors": [
+      "black",
+      "pink"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_095",
+    "title": "Crossbody Wallet \u2014 Chain",
+    "description": "Crossbody Wallet \u2014 Chain in black. Minimal, everyday vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "minimal",
+      "everyday",
+      "classic"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "excellent",
+    "price": 19.0,
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_096",
+    "title": "Fingerless Gloves \u2014 Knit",
+    "description": "Fingerless Gloves \u2014 Knit in grey. Grunge, streetwear vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "grunge",
+      "streetwear",
+      "cozy"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "fair",
+    "price": 9.0,
+    "colors": [
+      "grey",
+      "black"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_097",
+    "title": "Layered Necklace Set",
+    "description": "Layered Necklace Set in silver. Minimal, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "minimal",
+      "y2k",
+      "glam"
+    ],
+    "size": "One Size (adjustable)",
+    "condition": "fair",
+    "price": 24.5,
+    "colors": [
+      "silver"
+    ],
+    "brand": null,
+    "platform": "poshmark"
+  },
+  {
+    "id": "lst_098",
+    "title": "Hair Clips Set \u2014 Claw",
+    "description": "Hair Clips Set \u2014 Claw in tortoise. Y2k, colorful vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "y2k",
+      "colorful",
+      "everyday"
+    ],
+    "size": "One Size",
+    "condition": "fair",
+    "price": 9.5,
+    "colors": [
+      "tortoise"
+    ],
+    "brand": null,
+    "platform": "thredUp"
+  },
+  {
+    "id": "lst_099",
+    "title": "Vintage Wristwatch",
+    "description": "Vintage Wristwatch in silver. Vintage, classic vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "vintage",
+      "classic",
+      "minimal"
+    ],
+    "size": "One Size",
+    "condition": "fair",
+    "price": 44.0,
+    "colors": [
+      "silver",
+      "gold"
+    ],
+    "brand": null,
+    "platform": "depop"
+  },
+  {
+    "id": "lst_100",
+    "title": "Fanny Pack \u2014 Nylon",
+    "description": "Fanny Pack \u2014 Nylon in olive. Streetwear, y2k vibe. A solid secondhand find for everyday rotation.",
+    "category": "accessories",
+    "style_tags": [
+      "streetwear",
+      "y2k",
+      "utility"
+    ],
+    "size": "One Size",
+    "condition": "good",
+    "price": 15.5,
+    "colors": [
+      "olive"
+    ],
+    "brand": null,
+    "platform": "thredUp"
   }
 ]
