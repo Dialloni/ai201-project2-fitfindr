@@ -7,6 +7,10 @@ to wear them. Describe what you want in plain language — SecondLook searches m
 listings, styles the find against your wardrobe, and writes a shareable fit card,
 recovering gracefully when a tool returns nothing.
 
+## 🎬 Demo Video
+
+[Watch the demo on Loom](https://www.loom.com/share/b07d5d9853b748b487aa4f5f7a3144d7) — a full multi-step interaction (all three tools), visible state passing, conversation-memory follow-ups, and a triggered failure with the agent's graceful response.
+
 ## Setup
 
 ```bash
